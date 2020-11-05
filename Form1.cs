@@ -55,7 +55,7 @@ namespace _20201105
             //根據結果顯示圖
             if (imgList !=null && imgList.Count>=4)
             {
-                pic1.Image = imgList[0];
+                pic1.Image = imgList[3];
             }
 
 

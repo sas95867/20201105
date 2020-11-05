@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace _20201105
 {
     class CarApi
@@ -13,10 +14,14 @@ namespace _20201105
         public List<Image> Getplate(string input) 
         {
             List<Image> result = new List<Image>();
-
+            result.Add(Resources._002);
             result.Add(Resources._003);
+            result.Add(Resources._004);
+            result.Add(Resources._005);
+            result.Add(Resources._006);
 
-            return null;
+
+            return result;
         }
     }
 }

@@ -82,20 +82,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\002.png" />
+    <None Include="Resources\003.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\003.png" />
+    <None Include="Resources\004.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\004.png" />
+    <None Include="Resources\005.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\005.png" />
+    <None Include="Resources\006.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\006.png" />
+    <Content Include="Resources\002.png" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

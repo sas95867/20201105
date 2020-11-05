@@ -10,8 +10,9 @@
 
 namespace _20201105.Properties {
     using System;
-    
-    
+    using System.Drawing;
+
+
     /// <summary>
     ///   用於查詢當地語系化字串等的強類型資源類別。
     /// </summary>
@@ -63,51 +64,11 @@ namespace _20201105.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _002 {
-            get {
-                object obj = ResourceManager.GetObject("002", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+     
         
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _003 {
-            get {
-                object obj = ResourceManager.GetObject("003", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap _004 {
-            get {
-                object obj = ResourceManager.GetObject("004", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap _005 {
-            get {
-                object obj = ResourceManager.GetObject("005", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap _006 {
-            get {
-                object obj = ResourceManager.GetObject("006", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+      
     }
 }
